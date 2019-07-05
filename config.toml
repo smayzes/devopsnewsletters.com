@@ -105,3 +105,8 @@ languagecode = "en"
     description = "DevOpsLinks is a weekly newsletter & a community of aspiring DevOps professionals and practicioners from all over the world."
     weight = 101
     url = "http://devopslinks.com/"    
+[params.sites]]
+    name = "DevOpsChat"
+    description = "DevOpsChat is a wordlwide Slack community with over 14,000+ members and a growing newsletter list of the top curated articles, jobs and events in the DevOps world."
+    weight = 102
+    url = "http://devopschat.co/"
